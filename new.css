@@ -1,0 +1,60 @@
+.uvce h1{
+    text-align: center;
+    top: 75px;
+    color: white;
+    font-size: 50px;
+}
+.uvce{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(adre.jpg);
+    background-size:cover;
+}
+.img img{
+    margin-top: 10px;
+    margin-left: 125px;
+    margin-right: 125px;
+    margin-bottom: 30px;
+    height: 575px;
+    width: 1050px;
+}
+.img{
+    background-color: rgb(224, 241, 245);
+}
+input{
+    height: 30px;
+    width: 400px;
+}
+.abcd{
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-around;
+}
+.mail img{
+    border-radius: 27px;
+    height: 55px;
+    width: 55px;
+}
+.abc{
+    justify-content: center;
+    display: flex;
+}
+.abc p{
+margin-left: 10px;
+}
+.abc h3{
+    margin-left: 10px;
+    margin-top: 0%;
+    margin-bottom: 5px;
+}
+.adress{
+    display: flex;
+    flex-direction: column;
+}
+#fr img{
+    margin-right: 40px;
+}
+#we{
+    margin-left: 30px;
+}
+.abcd{
+    margin-bottom: 150px;
+}
